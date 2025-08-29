@@ -1,5 +1,0 @@
-<html>
-<head>
-<title> Barber shop website design</title>
-</head>
-<body></body></html>
